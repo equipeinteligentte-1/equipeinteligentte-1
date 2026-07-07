@@ -9,6 +9,20 @@
 
 <br>
 
+## 💡 Sobre a Inteligentte
+
+A Inteligentte é um laboratório de inovação focado em descomplicar e implementar a Inteligência Artificial na rotina das empresas, impulsionando a produtividade e escalando resultados de forma prática e acessível.
+
+Atuamos lado a lado com a sua equipe para mapear gargalos e construir soluções de IA sob medida para a sua operação. Nosso foco é entregar ferramentas prontas para o uso diário, substituindo o trabalho manual e repetitivo por fluxos inteligentes e totalmente autônomos.
+
+> 💬 O nosso lema é **"Inteligência artificial feita por gente"**. Tecnologia de ponta desenhada exclusivamente para facilitar a vida humana.
+
+| 🎯 Missão | 📈 Visão | 🤖 Equipe Digital |
+|---|---|---|
+| Tornar a Inteligência Artificial acessível e facilitar a rotina de trabalho para empresas de todos os tamanhos. | Preparar a sua empresa hoje para liderar as mudanças no mercado de tecnologia dos próximos anos. | Criamos agentes cognitivos de IA que assumem vendas, cobranças e agendamentos de forma 100% autônoma e humanizada. |
+
+<br>
+
 ## 🛠️ Stacks
 
 <p align="center">
