@@ -1,16 +1,22 @@
-## Hi there 👋
+# Equipe Inteligentte
 
-<!--
-**equipeinteligentte-1/equipeinteligentte-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos a Inteligentte, um time de desenvolvimento baseado em João Pessoa (PB).
 
-Here are some ideas to get you started:
+🌐 [inteligentte.com.br](https://inteligentte.com.br/)
+📷 [Instagram](https://www.instagram.com/somosinteligentte)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Time
+
+- **CEO**: [@eduardopedrosa](https://www.instagram.com/eduardopedrosa)
+- **CFO**: [@marcilioviana](https://www.instagram.com/marcilioviana)
+- **Dev**: [@noahcollin](https://github.com/noahcollin)
+- **Dev**: [@pedro-sls](https://github.com/pedro-sls)
+- **Dev**: [@Pedrojaug](https://github.com/Pedrojaug)
+- **Dev**: [@viczveras](https://github.com/viczveras)
+
+## Projetos
+
+- [pcl-site](https://github.com/equipeinteligentte-1/pcl-site) — novo site institucional da PCL - Projetos e Construções
+- [inteligenttelab](https://github.com/equipeinteligentte-1/inteligenttelab) — página da Inteligentte
+- [intense-body-assets](https://github.com/equipeinteligentte-1/intense-body-assets)
+- [public-assets](https://github.com/equipeinteligentte-1/public-assets)
