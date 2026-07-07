@@ -24,14 +24,14 @@
 
 ## 👥 Time
 
-**Liderança**
+### Liderança
 
 <p align="center">
   <a href="https://www.instagram.com/eduardopedrosa"><img src="https://img.shields.io/badge/CEO-Eduardo%20Pedrosa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.instagram.com/marcilioviana"><img src="https://img.shields.io/badge/CFO-Marc%C3%ADlio%20Viana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-**Desenvolvimento**
+### Desenvolvedores
 
 <table align="center">
   <tr>
@@ -61,14 +61,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-## 🚀 Projetos
-
-| Projeto | Descrição |
-|---|---|
-| [pcl-site](https://github.com/equipeinteligentte-1/pcl-site) | Novo site institucional da PCL - Projetos e Construções |
-| [inteligenttelab](https://github.com/equipeinteligentte-1/inteligenttelab) | Página da Inteligentte |
-| [intense-body-assets](https://github.com/equipeinteligentte-1/intense-body-assets) | Assets do projeto Intense Body |
-| [public-assets](https://github.com/equipeinteligentte-1/public-assets) | Assets públicos compartilhados |
