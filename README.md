@@ -56,12 +56,6 @@ Atuamos lado a lado com a sua equipe para mapear gargalos e construir soluções
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pedro-sls">
-        <img src="https://github.com/pedro-sls.png" width="90" height="90" alt="pedro-sls" /><br />
-        <b>pedro-sls</b>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Pedrojaug">
         <img src="https://github.com/Pedrojaug.png" width="90" height="90" alt="Pedrojaug" /><br />
         <b>Pedrojaug</b>
